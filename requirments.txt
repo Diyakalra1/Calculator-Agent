@@ -1,0 +1,8 @@
+transformers
+huggingface_hub
+torch
+create_supervisor
+langchain
+langgraph
+ollama
+langgraph_supervisor
